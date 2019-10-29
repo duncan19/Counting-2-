@@ -1,6 +1,6 @@
 # _Count By App_
 
-#### _Form that allows user to see how to count up to a certain number_
+#### _Form that allows user to see how to count up to a certain number, created October 28, 2019_
 
 #### By _**Duncan Robbins and Lara Bjork**_
 
@@ -27,6 +27,6 @@ _HTML, Javascript, jQuery, Bootstrap_
 
 ### License
 
-*This software is licensed under the MIT license *
+_This software is licensed under the MIT license _
 
-Copyright (c) 2016 **_Duncan Robbins and Lara Bjork_**
+Copyright (c) 2016-2019 **_Duncan Robbins and Lara Bjork_**
